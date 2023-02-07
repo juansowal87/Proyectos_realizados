@@ -1,6 +1,7 @@
-# Practicum by Yandex Projects
-These are Data Science projects I completed when going through the Data Science training course in Practicum by Yandex.
-They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
+# Proyecto realizados
+Estos son proyectos de análisis de datos que completé cuando realicé el bootcamp de data analyst en Practicum de Yandex.
+Se trata de Preprocesamiento, Análisis y Visualización de Datos, Análisis Estadístico, Análisis de negocio, Tomar deciciones de negocios basadas en datos, Automatización, Pronostico y predicción, etc.
+
 
 | Proyecto              | Descripción                                                                                 | Librerias                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
