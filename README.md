@@ -12,6 +12,6 @@ Se trata de Preprocesamiento, Análisis y Visualización de Datos, Análisis Est
 |[Proyecto Marketing](https://github.com/juansowal87/Proyectos_realizados/blob/main/Proyecto%20Marketing.ipynb)|Optimizar los gastos de marketing en una aplicación que ayuda a los usuarios a encontrar y comprar entradas para eventos.|*pandas, seaborn, matplotlib, numpy, scipy*|
 |[Proyecto Test A/B](https://github.com/juansowal87/Proyectos_realizados/blob/main/Proyecto%20Test%20A-B.ipynb)|Revisar y priorizar las hipótesis luego aplicaremos un test A/B para determinar cual grupo nos entrega mejores resultados, para una tienda en linea.|*pandas, seaborn, matplotlib, numpy, scipy, math, datetime*|
 |[Proyecto Cafetería](https://github.com/juansowal87/Proyectos_realizados/blob/main/Proyecto%20Cafeteria.ipynb)|Realizar un estudio de mercado para atraer inversionistas. Esto para implementar una cafetería atendida por robots.|*pandas, seaborn, matplotlib, numpy*|
-|[]()|||
+|[Proyecto alimenticio](https://github.com/juansowal87/Proyectos_realizados/blob/main/Proyecto%20Productos%20alimenticios.ipynb)|||
 |[]()|||
 |[]()|||
