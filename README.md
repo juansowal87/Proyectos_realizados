@@ -1,6 +1,5 @@
 # Proyecto realizados
-Estos son proyectos de análisis de datos que completé cuando realicé el bootcamp de data analyst en Practicum de Yandex.
-Se trata de Preprocesamiento, Análisis y Visualización de Datos, Análisis Estadístico, Análisis de negocio, Tomar deciciones de negocios basadas en datos, Automatización, Pronostico y predicción, etc.
+Estos son proyectos de análisis de datos que completé cuando realicé el bootcamp de data analyst en Practicum de Yandex. Se trata de Preprocesamiento, Análisis y Visualización de Datos, Análisis Estadístico, Análisis de negocio, Tomar decisiones de negocios basadas en datos, Automatización, Pronostico y predicción, etc
 
 
 | Proyecto              | Descripción                                                                                 | Librerias                      |
