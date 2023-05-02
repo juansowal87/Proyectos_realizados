@@ -13,4 +13,6 @@ Estos son proyectos de análisis de datos que completé cuando realicé el bootc
 |[Proyecto Cafetería](https://github.com/juansowal87/Proyectos_realizados/blob/main/Proyecto%20Cafeteria.ipynb)|Realizar un estudio de mercado para atraer inversionistas. Esto para implementar una cafetería atendida por robots.|*pandas, seaborn, matplotlib, numpy*|
 |[Proyecto Alimenticio](https://github.com/juansowal87/Proyectos_realizados/blob/main/Proyecto%20Productos%20alimenticios.ipynb)|investigar el comportamiento del usuario para la aplicación de la empresa. Investigar el embudo de ventas y sacar conclusiones para, luego observar los resultados de un test A/A/B y así tomar una decisión basada en los resultados de este mismo.|*pandas, seaborn, matplotlib, numpy, scipy, math, plotly*|
 |[Proyecto Machine Learning](https://github.com/juansowal87/Proyectos_realizados/blob/main/Proyecto%20Machine%20Learning.ipynb)|Debemos Coperar, analizar y elaborar una estrategia de retención de clientes para un gimnasio, Mediante de un modelo predictivo de machine learning.|*pandas, seaborn, matplotlib, numpy, scipy, math, plotly, SKlearn*|
-|[]()|||
+|[Proyecto test A/B 2]()|||
+|[Proyecto SQL]()|||
+|[Proyecto Eficiencia operadores]()|||
